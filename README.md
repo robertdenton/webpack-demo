@@ -40,4 +40,4 @@ Me messing around with webpack.
     * "Some people fell in love with Webpack, claiming they don't need Gulp anymore. Some people praised the simplicity of Gulp and complained Webpack is overengineered."
 * Webpack - [Getting started](https://webpack.js.org/guides/getting-started/)
     * `npm init -y` uses all defaults and automatically pulls in git info and first line of README for description
-    
+    * "Note that webpack will not alter any code other than import and export statements. If you are using other [ES2015 features](http://es6-features.org/), make sure to use a [transpiler](https://webpack.js.org/loaders/#transpiling) such as Babel or Bublé via webpack's [loader system](https://webpack.js.org/concepts/loaders/)."
