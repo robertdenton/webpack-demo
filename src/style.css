@@ -1,0 +1,11 @@
+@font-face{
+    font-family: "MillerHeadlineBold";
+    src: url('http://fonts.registerguard.com/miller/headlinebold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+.hello{
+    color: red;
+    font-family: 'MillerHeadlineBold';
+    background: url('./img.png');
+}

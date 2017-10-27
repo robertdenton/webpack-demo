@@ -41,3 +41,5 @@ Me messing around with webpack.
 * Webpack - [Getting started](https://webpack.js.org/guides/getting-started/)
     * `npm init -y` uses all defaults and automatically pulls in git info and first line of README for description
     * "Note that webpack will not alter any code other than import and export statements. If you are using other [ES2015 features](http://es6-features.org/), make sure to use a [transpiler](https://webpack.js.org/loaders/#transpiling) such as Babel or Bublé via webpack's [loader system](https://webpack.js.org/concepts/loaders/)."
+* Webpack - [Asset management](https://webpack.js.org/guides/asset-management/)
+    * 
