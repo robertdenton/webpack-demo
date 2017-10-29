@@ -69,25 +69,37 @@
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__content__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__style_css__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__style_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__style_css__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__content__ = __webpack_require__(2);
+// Import CSS
+// See: https://github.com/webpack-contrib/css-loader
+
+
+
 // Import vs require
 // See: https://github.com/webpack/webpack/issues/1973#issuecomment-18574431
 // See: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
 
-
-document.write(__WEBPACK_IMPORTED_MODULE_0__content__["a" /* whatever */]());
+document.write(__WEBPACK_IMPORTED_MODULE_1__content__["a" /* whatever */]());
 
 
 
 
 /***/ }),
 /* 1 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 2 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (immutable) */ __webpack_exports__["a"] = whatever;
 function whatever(){
-	return "<h1>This is in an html template</h1>";
+	return "<h1>CSS stuff</h1>";
 }
 
 
