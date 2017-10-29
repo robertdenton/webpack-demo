@@ -8,17 +8,21 @@ Create separate modules getting individual elements of webpack working, then com
 * bundle-js
 * dev-server
 * html-template
-* bundle-less
+* css
+* less
+
+Each element is built off the last and was created by reading documentation and going off of their examples. I don't know if everything is best practice or not. I came across a few examples that were outdated and had to debug from error messages.
 
 ## Getting started
 
 ```
 git clone https://github.com/robertdenton/webpack-demo.git
+cd {module}
 npm install
-npm run serve
+npm run serve || npm run build
 ```
 
-## Notes
+## Original notes
 
 * Originally read [this](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70), which explains the state of JS in 2017
 * Then moved to webpack 
