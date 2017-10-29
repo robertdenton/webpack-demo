@@ -9,3 +9,5 @@ function component(){
 }
 
 document.body.appendChild(component());
+
+document.getElementById("myapp").innerHTML = "what's up robby?";

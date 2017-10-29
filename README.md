@@ -1,5 +1,13 @@
 Me messing around with webpack.
 
+## Getting started
+
+```
+git clone https://github.com/robertdenton/webpack-demo.git
+npm install
+npm run serve
+```
+
 ## Notes
 
 * Originally read [this](https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70), which explains the state of JS in 2017
@@ -42,4 +50,42 @@ Me messing around with webpack.
     * `npm init -y` uses all defaults and automatically pulls in git info and first line of README for description
     * "Note that webpack will not alter any code other than import and export statements. If you are using other [ES2015 features](http://es6-features.org/), make sure to use a [transpiler](https://webpack.js.org/loaders/#transpiling) such as Babel or Bublé via webpack's [loader system](https://webpack.js.org/concepts/loaders/)."
 * Webpack - [Asset management](https://webpack.js.org/guides/asset-management/)
-    * 
+* [Beginners guide to webpack 2](https://medium.com/a-beginners-guide-for-webpack-2)
+  * Helpful but has bugs in it, read through most for context
+* If you edit webpack.config.js you have to re-run `npm run serve`
+* [Inline SVG](https://github.com/thegc/html-webpack-inline-svg-plugin) plugin looks helpful
+* [SASS loader](https://github.com/webpack-contrib/sass-loader)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
