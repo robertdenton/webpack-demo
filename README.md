@@ -4,8 +4,9 @@ Me messing around with webpack.
 
 Create separate modules getting individual elements of webpack working, then combine to starter kit. Need these elements:
 
-* dev-server
+* getting started
 * bundle-js
+* dev-server
 * html-template
 * bundle-less
 
