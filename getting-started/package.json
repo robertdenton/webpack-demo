@@ -1,0 +1,18 @@
+{
+  "name": "dev-server",
+  "version": "1.0.0",
+  "description": "Break out dev server functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0"
+  }
+}

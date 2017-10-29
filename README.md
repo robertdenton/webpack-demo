@@ -1,5 +1,14 @@
 Me messing around with webpack.
 
+## New plan
+
+Create separate modules getting individual elements of webpack working, then combine to starter kit. Need these elements:
+
+* dev-server
+* bundle-js
+* html-template
+* bundle-less
+
 ## Getting started
 
 ```
